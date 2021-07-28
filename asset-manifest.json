@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/notes-taking-webapp/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/notes-taking-webapp/static/js/main.d3146ef7.chunk.js",
+    "main.js.map": "/notes-taking-webapp/static/js/main.d3146ef7.chunk.js.map",
+    "runtime-main.js": "/notes-taking-webapp/static/js/runtime-main.caf69fd6.js",
+    "runtime-main.js.map": "/notes-taking-webapp/static/js/runtime-main.caf69fd6.js.map",
+    "static/js/2.a33af10d.chunk.js": "/notes-taking-webapp/static/js/2.a33af10d.chunk.js",
+    "static/js/2.a33af10d.chunk.js.map": "/notes-taking-webapp/static/js/2.a33af10d.chunk.js.map",
+    "static/js/3.460e07a4.chunk.js": "/notes-taking-webapp/static/js/3.460e07a4.chunk.js",
+    "static/js/3.460e07a4.chunk.js.map": "/notes-taking-webapp/static/js/3.460e07a4.chunk.js.map",
+    "index.html": "/notes-taking-webapp/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/notes-taking-webapp/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.a33af10d.chunk.js.LICENSE.txt": "/notes-taking-webapp/static/js/2.a33af10d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caf69fd6.js",
+    "static/js/2.a33af10d.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.d3146ef7.chunk.js"
+  ]
+}
