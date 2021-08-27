@@ -6,6 +6,7 @@ import NotesList from './components/noteslist';
 import Search from './components/Search';
 import Header from './components/Header'; 
 
+
 function App() {
   const [notes,setNotes] =useState([
     {
@@ -34,19 +35,20 @@ const [searchText, setSearchText] = useState('');
 
 const [mode, setMode] = useState('false');
 
-useEffect(()=>{
-  const savedTheme = JSON.parse(
-    localStorage.getItem('mode')
-    );
+// useEffect(()=>{
+//   const savedTheme = JSON.parse(
+//     localStorage.getItem('react-mode')
+//     );
 
-    if(savedTheme){
-      setMode(savedTheme);
-    }
-}, []);
+//     if(savedTheme){
+//       setMode(savedTheme);
+//     }
+// }, []);
 
-useEffect(() => {
-  localStorage.setItem('mode', JSON.stringify(mode));
-}, [mode]);
+// useEffect(() => {
+//   localStorage.setItem('react-mode', 
+//   JSON.stringify(mode));
+// }, [mode]);
 
 useEffect(()=>{
   const savedNotes = JSON.parse(

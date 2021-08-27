@@ -20,10 +20,14 @@ code {
 .dark-mode{
   background-color: #1f2933;
 }
-.dark-mode h1{
+.dark-mode h1 {
   color:white;
 } 
 
+.dark-mode button svg{
+  color:#fff;
+  background: transparent;
+}
 
 .container{
   max-width: 960px;
@@ -96,4 +100,11 @@ textarea:focus{
 }
 .search input:focus{
   outline: none;
+}
+.toggle-icon{
+  border-radius: 50%;
+  padding: 5px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
 }
