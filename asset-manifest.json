@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/notes-taking-webapp/static/css/main.a7bd8a1d.chunk.css",
-    "main.js": "/notes-taking-webapp/static/js/main.e83664df.chunk.js",
-    "main.js.map": "/notes-taking-webapp/static/js/main.e83664df.chunk.js.map",
+    "main.js": "/notes-taking-webapp/static/js/main.ff9b5cc9.chunk.js",
+    "main.js.map": "/notes-taking-webapp/static/js/main.ff9b5cc9.chunk.js.map",
     "runtime-main.js": "/notes-taking-webapp/static/js/runtime-main.5f47b2ba.js",
     "runtime-main.js.map": "/notes-taking-webapp/static/js/runtime-main.5f47b2ba.js.map",
-    "static/js/2.ada0e9ce.chunk.js": "/notes-taking-webapp/static/js/2.ada0e9ce.chunk.js",
-    "static/js/2.ada0e9ce.chunk.js.map": "/notes-taking-webapp/static/js/2.ada0e9ce.chunk.js.map",
+    "static/js/2.4b834d2b.chunk.js": "/notes-taking-webapp/static/js/2.4b834d2b.chunk.js",
+    "static/js/2.4b834d2b.chunk.js.map": "/notes-taking-webapp/static/js/2.4b834d2b.chunk.js.map",
     "index.html": "/notes-taking-webapp/index.html",
     "static/css/main.a7bd8a1d.chunk.css.map": "/notes-taking-webapp/static/css/main.a7bd8a1d.chunk.css.map",
-    "static/js/2.ada0e9ce.chunk.js.LICENSE.txt": "/notes-taking-webapp/static/js/2.ada0e9ce.chunk.js.LICENSE.txt"
+    "static/js/2.4b834d2b.chunk.js.LICENSE.txt": "/notes-taking-webapp/static/js/2.4b834d2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f47b2ba.js",
-    "static/js/2.ada0e9ce.chunk.js",
+    "static/js/2.4b834d2b.chunk.js",
     "static/css/main.a7bd8a1d.chunk.css",
-    "static/js/main.e83664df.chunk.js"
+    "static/js/main.ff9b5cc9.chunk.js"
   ]
 }
