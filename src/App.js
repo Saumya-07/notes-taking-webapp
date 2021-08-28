@@ -10,23 +10,18 @@ import Header from './components/Header';
 function App() {
   const [notes,setNotes] =useState([
     {
-    id:nanoid(),
-    text:'This is my forst note',
-    date:'15/04/2021'
-    },
-    {
       id:nanoid(),
-      text:'This is my first note',
+      text:'Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.',
       date:'15/04/2021'
     },
     {
       id:nanoid(),
-      text:'This is my second note',
+      text:'I would love to change the world, but they won’t give me the source code.',
       date:'13/04/2021'
     },
     {
       id:nanoid(),
-      text:'This is my third note',
+      text:'The glass is neither half-full nor half-empty; it’s twice as big as it needs to be.',
       date:'11/04/2021'
     },
 ]);
